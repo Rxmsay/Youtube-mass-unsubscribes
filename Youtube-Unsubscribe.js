@@ -29,5 +29,4 @@ function eltimer() {
     console.log(ramsay + " of channels were unsubscribed from \n");
 
     console.log(els.length + " left \n");
-
 }
